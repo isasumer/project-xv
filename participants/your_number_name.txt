@@ -1,1 +1,2 @@
-added second line
+added sentences
+>>>>>>> developer-your_number_and_name
